@@ -10,18 +10,20 @@ import shieldTick from './shield-tick.svg'
 import star from './star.svg'
 import truckFast from './truck-fast.svg'
 import twitter from './twitter.svg'
+import close from './close.svg'
 
 export {
-    arrowRight,
-    cheveronRight,
-    chevronLeft,
-    copyrightSign,
-    facebook,
-    hamburger,
-    instagram,
-    support,
-    shieldTick,
-    star,
-    truckFast,
-    twitter
+	arrowRight,
+	cheveronRight,
+	chevronLeft,
+	copyrightSign,
+	facebook,
+	hamburger,
+	instagram,
+	support,
+	shieldTick,
+	star,
+	truckFast,
+	twitter,
+	close,
 }
